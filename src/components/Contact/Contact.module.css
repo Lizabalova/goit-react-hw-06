@@ -1,4 +1,4 @@
-.fullContact {
+.Contacts {
     display: flex;
     padding: 10px;
     border: 1px solid black;
@@ -8,7 +8,7 @@
     align-items: center;
 }
 
-.contactInfo {
+.contactName {
     display: block;
     gap: 10px;
     line-height: 1.2em;
@@ -17,7 +17,7 @@
     width: 200px;
 }
 
-.btn {
+.deleteButton {
     padding: 10px;
     background-color: lightgray;
     border: 1px solid black;

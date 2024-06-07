@@ -1,4 +1,4 @@
-.box {
+.searchBoxContainer {
     display: block;
     padding: 10px;
     border: 1px solid black;
@@ -8,13 +8,9 @@
     margin-bottom: 40px;
 }
 
-.label {
-    font-size: large;
-    font-weight: 500;
-}
 
-.input {
-    width: 240px;
+.searchBoxInput {
+    width: 230px;
     padding: 10px;
     border: 1px solid black;
     border-radius: 5px;

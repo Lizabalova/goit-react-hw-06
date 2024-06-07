@@ -1,4 +1,4 @@
-.formStyle {
+.formContainer {
     display: block;
     padding: 10px;
     margin-bottom: 10px;
@@ -7,13 +7,13 @@
     width: 300px;
 }
 
-.fialdStyle {
+.label{
     display: block;
     padding: 10px;
 
 }
 
-.field {
+.inputField {
     display: block;
     padding: 10px;
     width: 250px;
@@ -21,13 +21,15 @@
     border-radius: 5px;
 }
 
-.btn {
+.submitButton {
     display: block;
     padding: 10px;
     background-color: lightgray;
     border: 1px solid black;
     border-radius: 5px;
     margin: 0 auto;
+    margin-top: 20px;
+
 }
 
 .err {
